@@ -41,8 +41,8 @@ Code isn’t just logic — it’s **art in motion** ⚡
 
 ## 📊 GitHub Vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ff00ff&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingphenix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingphenix&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=ff00ff&text_color=ffffff" height="180" />
 </p>  
 
 ---
