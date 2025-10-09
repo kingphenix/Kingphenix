@@ -2,7 +2,7 @@
 
 💻 **Elite Frontend Developer** | 🎨 **Digital Art Explorer** | 🤖 **AI & Automation Hacker**  
 
-> *"In the intersection of code, art, and AI — I build interfaces that feel alive."*  
+> *"In the intersection of code, art, and AI, I build interfaces that feel alive."*  
 
 ---
 
