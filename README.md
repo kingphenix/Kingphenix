@@ -1,6 +1,6 @@
 # ⚡ Hey, I'm Joseph   
 
-💻 **Elite Frontend Developer** | 🎨 **Digital Art Explorer** | 🤖 **AI & Automation Hacker**  
+ **Frontend Developer** | **Digital Art Explorer** | **AI & Automation Hacker**  
 
 > *"In the intersection of code, art, and AI, I build interfaces that feel alive."*  
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌌 Neon Aesthetic
+## Neon Aesthetic
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="400" alt="Cyberpunk coding" />
 </p>  
@@ -33,9 +33,9 @@ Code isn’t just logic — it’s **art in motion** ⚡
 ---
 
 ## 🚀 Featured Builds
-- 🌀 **AI x Art Playground** – Generative visuals & creative automation  
-- ⚡ **Neon Portfolio** – Dark, edgy frontend experiments  
-- 🤖 **Automation Scripts** – Smarter workflows that save time  
+-  **PaintballWithPolicy** – Modern website for one of the biggest painball brands in Nigeria  
+- **Portfolio Site** – A portfolio site utilizing my skills to do a little showoff 
+- **Web3 Pice Wactch** – A clean simple crypto webapp to monitor prices without downloading any app  
 
 ---
 
@@ -59,4 +59,4 @@ Code isn’t just logic — it’s **art in motion** ⚡
 
 ---
 
-🖤 *Dark Mode Only. Neon Forever.*
+🖤 *Forever. Pheenix*
