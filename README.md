@@ -6,11 +6,11 @@
 
 ---
 
-## 🌀 My Craft
-- ⚡ Next-gen Frontend (React, Next.js, Tailwind, Framer Motion, Three.js)  
-- 🎨 Immersive UI/UX & Motion Design  
-- 🤖 AI + Automation Workflows  
-- 🚀 Building sleek, scalable digital products  
+## My Stack
+-  Next-gen Frontend (React, Next.js, Tailwind, Framer Motion, Three.js)  
+-  Immersive UI/UX & Motion Design  
+-  AI + Automation Workflows  
+-  Building sleek, scalable digital products  
 
 ---
 
@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="400" alt="Cyberpunk coding" />
 </p>  
 
-Code isn’t just logic — it’s **art in motion** ⚡  
+Code isn’t just logic, it’s **art in motion**  
 
 ---
 
@@ -32,7 +32,7 @@ Code isn’t just logic — it’s **art in motion** ⚡
 </div>
 ---
 
-## 🚀 Featured Builds
+## Featured Builds
 -  **PaintballWithPolicy** – Modern website for one of the biggest painball brands in Nigeria  
 - **Portfolio Site** – A portfolio site utilizing my skills to do a little showoff 
 - **Web3 Pice Wactch** – A clean simple crypto webapp to monitor prices without downloading any app  
