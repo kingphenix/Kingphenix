@@ -35,7 +35,7 @@ Code isn’t just logic, it’s **art in motion**
 ## Featured Builds
 -  **PaintballWithPolicy** – Modern website for one of the biggest painball brands in Nigeria  
 - **Portfolio Site** – A portfolio site utilizing my skills to do a little showoff 
-- **Web3 Pice Wactch** – A clean simple crypto webapp to monitor prices without downloading any app  
+- **Crypto Pice Wactch** – A clean simple crypto webapp to monitor prices without downloading any app  
 
 ---
 
