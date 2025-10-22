@@ -1,4 +1,4 @@
-# ⚡ Hey, I'm Joseph   
+# ⚡ Hola, I'm Joseph   
 
  **Frontend Developer** | **AI & Automation Hacker** |  **Digital Art Explorer**| 
 
