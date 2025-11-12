@@ -52,7 +52,7 @@ Code isn’t just logic, it’s **art in motion**
 <a href="https://twitter.com/pheenix_x">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://pheenix-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
