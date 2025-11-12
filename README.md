@@ -16,7 +16,7 @@
 
 ## Neon Aesthetic
 <p align="center">
-  <img src="[https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA0NzRneDkzcDNoYzdueTVpMDM1dzk3OHZsbzJzcXduNDQwb3dwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)" width="400" alt="Cyberpunk coding" />
+  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="400" alt="funy coding gif" />
 </p>  
 
 Code isn’t just logic, it’s **art in motion**  
